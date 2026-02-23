@@ -1,0 +1,7 @@
+{
+  "name": "HappyMeals - AI-Powered Gourmet Delivery",
+  "description": "A foodie flow gourmet ecosystem with a modern AI Food Scout, gamified Lucky Spin discounts, and customizable product configurations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
